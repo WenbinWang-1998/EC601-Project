@@ -1,3 +1,4 @@
+# reference:https://codelabs.developers.google.com/codelabs/cloud-natural-language-python3#6
 from google.cloud import language
 
 
